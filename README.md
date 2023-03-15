@@ -17,7 +17,7 @@ Un joueur est choisi pour commencer et jouer se déplace dans le sens des aiguil
 
 Chaque joueur lance à son tour les six dés et vérifie s'il a lancé des dés ou des combinaisons de score. (Voir Score ci-dessous.) Tous les dés qui marquent peuvent être mis de côté, puis le joueur peut choisir de lancer tous les dés restants. Le joueur doit mettre de côté au moins un dé de score de son choix si possible mais n'est pas obligé de mettre de côté tous les dés de score.
 
-Par exemple, si un joueur obtient 1-2-2-5-5-6 à son tour, il peut mettre de côté le 1 et les deux 5 pour marquer, ou il peut choisir de ne mettre de côté que le 1.
+_Par exemple, si un joueur obtient 1-2-2-5-5-6 à son tour, il peut mettre de côté le 1 et les deux 5 pour marquer, ou il peut choisir de ne mettre de côté que le 1._
 
 Tous les dés de score qui ne sont pas mis de côté peuvent être relancés avec les dés de non score.
 
