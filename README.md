@@ -24,12 +24,12 @@ Si les **six dés ont été mis de côté pour marquer** (connu sous le nom de "
 ## Tableau score ##
 
 
-- **1**	100 points
-- **5**	50 points
-- **Trois 1**	1000 points
-- **Trois 2**	200 points
-- **Trois 3**	300 points
-- **Trois 4**	400 points
-- **Trois 5**	500 points
-- **Trois 6**	600 points
+- **Face 1**  : 100 points
+- **Face 5**  : 50 points
+- **Trois 1** : 1000 points
+- **Trois 2** : 200 points
+- **Trois 3** : 300 points
+- **Trois 4** : 400 points
+- **Trois 5** : 500 points
+- **Trois 6** : 600 points
 
