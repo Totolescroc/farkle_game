@@ -13,14 +13,23 @@
 
 ## Règles ##
 
-Un joueur est choisi pour commencer et jouer se déplace dans le sens des aiguilles d'une montre autour de la table.
-
-Chaque joueur lance à son tour les six dés et vérifie s'il a lancé des dés ou des combinaisons de score. (Voir Score ci-dessous.) Tous les dés qui marquent peuvent être mis de côté, puis le joueur peut choisir de lancer tous les dés restants. Le joueur doit mettre de côté au moins un dé de score de son choix si possible mais n'est pas obligé de mettre de côté tous les dés de score.
+Chaque joueur lance à son tour les six dés et vérifie s'il a lancé des dés ou des combinaisons de score. (Voir Score ci-dessous.) Tous les dés qui marquent peuvent être mis de côté, puis le joueur peut choisir de lancer tous les dés restants. Le joueur doit **mettre de côté au moins un dé de score de son choix** si possible mais n'est pas obligé de mettre de côté tous les dés de score.
 
 _Par exemple, si un joueur obtient 1-2-2-5-5-6 à son tour, il peut mettre de côté le 1 et les deux 5 pour marquer, ou il peut choisir de ne mettre de côté que le 1._
 
 Tous les dés de score qui ne sont pas mis de côté peuvent être relancés avec les dés de non score.
 
-Si les six dés ont été mis de côté pour marquer (connu sous le nom de "dés chauds"), le joueur peut choisir de lancer à nouveau les six dés et continuer à ajouter à son score accumulé ou il peut accumuler ses points, terminer son tour et passer les dés au joueur suivant.
+Si les **six dés ont été mis de côté pour marquer** (connu sous le nom de "dés chauds"), le joueur peut choisir de **lancer à nouveau les six dés** et continuer à ajouter à son score accumulé ou il peut accumuler ses points, terminer son tour et passer les dés au joueur suivant.
 
-Le tour d'un joueur continue jusqu'à ce qu'il décide d'arrêter (à quel point il marque alors ses points accumulés) ou jusqu'à ce qu'il ne lance aucun dé de score lors d'un lancer.
+## Tableau score ##
+
+
+- **Face 1**  : 100 points
+- **Face 5**  : 50 points
+- **Trois 1** : 1000 points
+- **Trois 2** : 200 points
+- **Trois 3** : 300 points
+- **Trois 4** : 400 points
+- **Trois 5** : 500 points
+- **Trois 6** : 600 points
+
